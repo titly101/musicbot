@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/570e6b36b6962d8f369a2.jpg"  width="600" height="150">
+  <img src="https://graph.org/file/570e6b36b6962d8f369a2.jpg"  width="600" height="650">
 </p>
 
 

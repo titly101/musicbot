@@ -1,12 +1,12 @@
 {
-    "name": "ɴᴏʙɪ 𝙼𝚄𝚂𝙸𝙲",
+    "name": "𝙼𝚄𝚂𝙸𝙲 𝙱𝚘𝚝",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/5dde07baff72a1523b769.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "DAXX",
+    "AAYU",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -52,7 +52,7 @@
         "value": "",
         "required": false
       },
-      "LOGGER_ID": {
+      "LOGGER_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena lowde.",
         "value": "",
         "required": true
